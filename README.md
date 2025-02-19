@@ -28,4 +28,4 @@ For this project, it is recommended to use HTML and CSS to create the web page. 
 
 [x] Use CSS to style the card.
 
-[x] Deploy the solution and submit Repository URL and Demo URL. 
+[x] Deploy the solution and submit Repository URL and Demo URL. : https://gabnns.github.io/Challenge_Minimal_Bog_Card/
